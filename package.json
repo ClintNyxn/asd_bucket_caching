@@ -1,0 +1,24 @@
+{
+  "name": "asd_bucket_caching",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClintNyxn/asd_bucket_caching.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ClintNyxn/asd_bucket_caching/issues"
+  },
+  "homepage": "https://github.com/ClintNyxn/asd_bucket_caching#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
